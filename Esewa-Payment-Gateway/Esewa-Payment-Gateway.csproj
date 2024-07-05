@@ -5,6 +5,8 @@
     <RootNamespace>Esewa_Payment_Gateway</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>EsewaV2</Title>
   </PropertyGroup>
 
   <ItemGroup>
