@@ -18,7 +18,6 @@ namespace Esewa_Payment_Gateway
 {
     public class EsewaPayment
     {
-        public string ContentType { get; set; } = "application/json";
         private readonly string _secretKey;
         private readonly bool _isSandBox;
 
